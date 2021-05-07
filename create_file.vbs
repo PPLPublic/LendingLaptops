@@ -7,7 +7,7 @@
 Option Explicit
 Dim objFSO, objFSOText, objFolder, objFile
 Dim strDirectory, strFile
-strDirectory = "C:\logs\guy1"
+strDirectory = "C:\users\libadmin\desktop\guy1"
 strFile = "\Summer.txt"
 
 ' Create the File System Object
